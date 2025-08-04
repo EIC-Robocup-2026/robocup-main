@@ -1,0 +1,15 @@
+[submodule "hardware-integrations"]
+	path = hardware-integrations
+	url = https://github.com/EIC-Robocup-2026/hardware-integrations.git
+[submodule "navigation"]
+	path = navigation
+	url = https://github.com/EIC-Robocup-2026/navigation.git
+[submodule "vision-language"]
+	path = vision-language
+	url = https://github.com/EIC-Robocup-2026/vision-language.git
+[submodule "text-to-speech"]
+	path = text-to-speech
+	url = https://github.com/EIC-Robocup-2026/text-to-speech.git
+[submodule "speech-to-text"]
+	path = speech-to-text
+	url = https://github.com/EIC-Robocup-2026/speech-to-text.git
