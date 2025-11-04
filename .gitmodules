@@ -13,3 +13,6 @@
 [submodule "speech-to-text"]
 	path = speech-to-text
 	url = https://github.com/EIC-Robocup-2026/speech-to-text.git
+[submodule "robot-description"]
+	path = robot-description
+	url = git@github.com:EIC-Robocup-2026/robot-description.git
